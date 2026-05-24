@@ -1,0 +1,244 @@
+Usability Testing Report
+Food Delivery Mobile App Prototype
+1. Introduction
+
+This project focuses on conducting usability testing for a Food Delivery Mobile App Prototype.
+
+The purpose of usability testing is to:
+
+evaluate user experience
+identify usability problems
+collect user feedback
+improve application design
+
+The testing was conducted on an interactive prototype developed using:
+
+HTML
+CSS
+JavaScript
+
+The prototype included:
+
+Login Screen
+Food Selection Screen
+Cart Screen
+Order Placement Flow
+
+
+2. Objective of Usability Testing
+
+The main objectives were:
+
+Test whether users can easily navigate the app
+Identify confusing interface elements
+Measure ease of use
+Gather feedback for design improvements
+3. Features Tested
+
+The following features were tested:
+
+Feature	Purpose
+Login System	User authentication flow
+Food Cards	Food browsing experience
+Add To Cart	Shopping interaction
+Navigation Flow	Screen transitions
+Order Placement	Checkout process
+
+
+4. Usability Test Plan
+Test Method
+
+Moderated usability testing was conducted.
+
+The tester observed users while they interacted with the prototype.
+
+5. Test Environment
+Item	Details
+Device	Laptop / Mobile View
+Browser	Chrome
+Internet	Required for images
+Duration	10–15 minutes per user
+6. Sample Users
+
+A small group of beginner users participated.
+
+User ID	Age	Background
+User 1	20	College Student
+User 2	22	Beginner App User
+User 3	19	Online Food Ordering User
+User 4	24	Working Professional
+User 5	21	Frequent Mobile App User
+7. Test Scenarios
+
+Users were asked to complete the following tasks.
+
+Scenario 1 — Login
+Task
+
+User should:
+
+enter email
+enter password
+click login
+Expected Result
+
+User navigates to Home Screen successfully.
+
+Scenario 2 — Browse Food
+Task
+
+User should:
+
+view food items
+identify prices
+explore cards
+Expected Result
+
+User understands available food options.
+
+Scenario 3 — Add Food to Cart
+Task
+
+User should:
+
+click Add To Cart button
+Expected Result
+
+Selected item appears in cart.
+
+Scenario 4 — Place Order
+Task
+
+User should:
+
+open cart
+place order
+Expected Result
+
+Success message appears.
+
+8. Observations During Testing
+
+The following observations were recorded.
+
+Observation	Result
+Users easily understood login flow	Positive
+Buttons were clearly visible	Positive
+Food images improved engagement	Positive
+Some users wanted Back button	Issue Found
+Cart navigation confused 1 user	Minor Issue
+Users liked color theme	Positive
+9. User Feedback Collected
+Positive Feedback
+
+Users said:
+
+“App looks clean.”
+“Navigation is simple.”
+“Food cards are attractive.”
+“Buttons are easy to click.”
+Negative Feedback
+
+Users suggested:
+
+Add Back button
+Add quantity selection
+Add cart total price
+Add logout option
+10. Problems Identified
+Problem	Impact
+No Back Navigation	Medium
+No Quantity Selector	Medium
+Cart lacks total amount	Medium
+Limited food items	Low
+11. Analysis of Results
+
+The usability testing showed that:
+
+users completed tasks successfully
+navigation was mostly easy
+interface was beginner-friendly
+
+However:
+
+users expected more shopping features
+cart functionality needs improvement
+navigation can be enhanced
+12. Design Improvement Suggestions
+1. Add Back Button
+Reason
+
+Users may want to return to previous screens.
+
+Suggested Improvement
+
+Add:
+
+<button>Back</button>
+
+with navigation functionality.
+
+13. Add Quantity Selection
+Reason
+
+Users want multiple item ordering.
+
+Suggested Feature
+[-] 1 [+]
+14. Add Total Price Calculation
+Reason
+
+Users need payment summary.
+
+Suggested Improvement
+
+Display:
+
+Total Price: ₹498
+15. Add More Food Categories
+Suggested Categories
+Drinks
+Desserts
+Chinese Food
+South Indian Food
+16. Improve Cart Design
+Suggestions
+better spacing
+remove item option
+quantity controls
+17. Future Enhancements
+
+Possible future improvements:
+
+Feature	Purpose
+Search Bar	Faster food finding
+User Profile	Personalization
+Payment Gateway	Real transactions
+Order Tracking	Delivery updates
+Dark Mode	Better accessibility
+18. Testing Metrics
+Metric	Result
+Task Completion Rate	90%
+Navigation Understanding	High
+User Satisfaction	Good
+Error Rate	Low
+
+
+19. Conclusion
+
+The usability testing successfully evaluated the Food Delivery Mobile App Prototype.
+
+The testing revealed that:
+
+users could navigate easily
+interface was simple and engaging
+core functionality worked properly
+
+The study also identified areas for improvement such as:
+
+navigation controls
+cart functionality
+enhanced user interactions
+
+Overall, the prototype achieved a positive usability experience and provided valuable insights for future design improvements.
+
